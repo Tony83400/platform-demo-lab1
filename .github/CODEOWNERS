@@ -1,14 +1,14 @@
 # Default owner
-* @Tony83400
+* @Tony83400 @aNovaely-VM
 
 # Platform configuration
-/.github/ @GitFabien
+/.github/ @aNovaely-VM
 
 # Application code
-/src/ @GitFabien
+/src/ @aNovaely-VM
 
 # Tests
-/test/ @GitFabien
+/test/ @aNovaely-VM
 
 # Deployment configuration
-/deploy/ @GitFabien
+/deploy/ @aNovaely-VM
